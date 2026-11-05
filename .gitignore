@@ -1,0 +1,35 @@
+# 本地系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 本地编辑器/历史文件
+.Rhistory
+.obsidian/
+.vscode/
+.idea/
+
+# 凭据、会话和环境配置（绝不上传）
+cookies.txt
+**/cookies.txt
+.env
+.env.*
+*.pem
+*.key
+*.token
+
+# 临时文件与日志
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# 如果以后向此目录复制研究原件，默认不纳入公开版
+证据/
+机制研究/
+资源提取/
+版本归档/
+源包/
+数据/
+事件池/
